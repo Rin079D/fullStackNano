@@ -1,0 +1,59 @@
+body {
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.homePage {
+	margin-top: 50px;
+}
+
+.welcome,
+.homeTitle {
+	color: #ffff00;
+	font-style: italic;
+	font-family: cursive;
+}
+
+hr {
+	style="width: 100%;
+	color: #ffffff;
+	height: 1px;
+	background-color:#ffffff;
+}
+
+.pageTitle {
+	color: #ff0066;
+	padding-left: 20px;
+	margin: 20 0 20 0;
+}
+
+.itemList {
+	font-size: 18px;
+	font-weight: bolder;
+	margin: 20 0 20 0;
+}
+
+.action {
+	color: orange;
+	font-family: sans-serif;
+}
+
+.buttonStyle {
+	margin-left: 16px;
+	margin-bottom: 50px;
+}
+
+.divider {
+	margin: 20px;
+}
+
+.tableStyle {
+	font-family: sans-serif;
+	margin-left: 32px;
+}
+
+.tableTitle {
+	color: #F972A6
+}

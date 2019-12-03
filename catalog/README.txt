@@ -26,43 +26,4 @@ Once everything is installed, type in the following commands to run the program 
   * set-up database:  **python database_setup.py**
   * load the data:  **python database_anime.py**
   * run the application:  **python animeApp.py**
-*Output :*
 
-**1. API Endpoints**
-
-![alt](output_1.png)
-
-![alt](output_2.png)
-
-
-**2. Authentication & Authorization**
-
-![alt](output_3.png)
-
-![alt](output_4.png)
-
-
-**3. CRUD: Read**
-
-![alt](output_5.png)
-
-![alt](output_6.png)
-
-**4. CRUD: Create**
-
-![alt](output_7.png)
-
-![alt](output_8.png)
-
-
-**5. CRUD: Update**
-
-![alt](output_9.png)
-
-
-**6. CRUD: Delete**
-
-![alt](output_10.png)
-
-
-*Note: Anime list and description reference: https://reelrundown.com/animation/Anime-Genre-List*
